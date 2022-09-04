@@ -1,7 +1,7 @@
 # To-Do List
 A Url Shortner Application using react.
 
-[Live Demo](https://hajaasmath.github.io/Todo-List) :point_left:
+[Live Demo](https://hajaasmath.github.io/url-shortner) :point_left:
 
 To Run the application
 
