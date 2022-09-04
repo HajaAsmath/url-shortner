@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/url-shortner/static/css/main.4cb1c511.css",
+    "main.js": "/url-shortner/static/js/main.d3aab2f0.js",
+    "static/js/787.c98d45da.chunk.js": "/url-shortner/static/js/787.c98d45da.chunk.js",
+    "static/media/pesto1.jpg": "/url-shortner/static/media/pesto1.aa27ab0d48c06b54e8b0.jpg",
+    "static/media/spinner.svg": "/url-shortner/static/media/spinner.afe34a6ab27e6daa3af3.svg",
+    "index.html": "/url-shortner/index.html",
+    "main.4cb1c511.css.map": "/url-shortner/static/css/main.4cb1c511.css.map",
+    "main.d3aab2f0.js.map": "/url-shortner/static/js/main.d3aab2f0.js.map",
+    "787.c98d45da.chunk.js.map": "/url-shortner/static/js/787.c98d45da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb1c511.css",
+    "static/js/main.d3aab2f0.js"
+  ]
+}
